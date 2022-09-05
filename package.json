@@ -1,0 +1,29 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "My Blog",
+  "main": "index.js",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thoaingo07/blog.git"
+  },
+  "keywords": [],
+  "author": "Thoai Ngo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thoaingo07/blog/issues"
+  },
+  "homepage": "https://github.com/thoaingo07/blog#readme",
+  "dependencies": {
+    "astro": "^1.1.5",
+    "@astrojs/mdx": "^0.11.1",
+    "@astrojs/rss": "^1.0.0",
+    "@astrojs/sitemap": "^1.0.0"
+  }
+}
